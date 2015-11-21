@@ -3,7 +3,6 @@
   <groupId>SistemaCompletoReoferta</groupId>
   <artifactId>SistemaCompletoReoferta</artifactId>
   <version>1.0</version>
-  <packaging>war</packaging>
   <build>
     <sourceDirectory>src</sourceDirectory>
     <plugins>
